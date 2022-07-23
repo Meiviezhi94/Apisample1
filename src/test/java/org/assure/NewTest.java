@@ -15,5 +15,10 @@ public class NewTest {
 	  	System.out.println("test3");
 	  }
 
-  
+	  @Test
+	  private void tc99()
+	  {
+	  	System.out.println("testooo");
+	  }
+
 }
